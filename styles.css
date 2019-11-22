@@ -1,0 +1,59 @@
+nav.menu-nav ul li.btn{
+	list-style: none;
+	display: inline-block;
+}
+
+nav.menu-nav ul li.btn a{
+	text-decoration: none;
+	color: white;
+	background-color: red;
+	padding: 10px;
+	font-size: 20px;
+}
+
+nav.menu-nav ul li.btn:hover a{
+	color: red;
+	background-color: white;
+	transition: 2,5s all;
+}
+header{
+	
+}
+footer{
+	background-color: #8CC6D7;
+}
+
+p{
+	color: white;
+	font-size: 20px;
+}
+p.bit{
+	color: #FFF799;
+	padding-top: 80px;
+}
+p.adr{
+	color: #FF483D;
+	font-size: 40px;
+	font-weight: bold;
+	padding-left: 300px;
+}
+p.adf{
+	color: #FF483D;
+	font-size: 40px;
+	font-weight: bold;
+	padding-left: 400px;
+}
+h1{
+	color: #FFEFB6;
+	padding-left: 300px;
+}
+body{
+	background: url("https://images8.alphacoders.com/400/400642.jpg");
+	background-size: 100%;
+}
+h1{
+	font-size: 100px;
+}
+a{
+	color: #FFFAFA;
+}
